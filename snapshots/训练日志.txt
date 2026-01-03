@@ -1,0 +1,115 @@
+E:\Anaconda\envs\pranet\python.exe E:\PraNet\train.py 
+Loading Res2Net pretrained weights...
+Backbone loaded.
+Epoch [001/100] | Loss: 0.7022
+Epoch [002/100] | Loss: 0.4486
+Epoch [003/100] | Loss: 0.4478
+Epoch [004/100] | Loss: 0.2680
+Epoch [005/100] | Loss: 0.4906
+Epoch [006/100] | Loss: 0.3180
+Epoch [007/100] | Loss: 0.1574
+Epoch [008/100] | Loss: 0.1918
+Epoch [009/100] | Loss: 0.4164
+Epoch [010/100] | Loss: 0.1867
+Saved: snapshots\PraNet_Windows\PraNet_epoch_10.pth
+Epoch [011/100] | Loss: 0.1571
+Epoch [012/100] | Loss: 0.1194
+Epoch [013/100] | Loss: 0.1214
+Epoch [014/100] | Loss: 0.2673
+Epoch [015/100] | Loss: 0.1365
+Epoch [016/100] | Loss: 0.0903
+Epoch [017/100] | Loss: 0.1594
+Epoch [018/100] | Loss: 0.1456
+Epoch [019/100] | Loss: 0.1532
+Epoch [020/100] | Loss: 0.0900
+Saved: snapshots\PraNet_Windows\PraNet_epoch_20.pth
+Epoch [021/100] | Loss: 0.0907
+Epoch [022/100] | Loss: 0.0777
+Epoch [023/100] | Loss: 0.2096
+Epoch [024/100] | Loss: 0.1023
+Epoch [025/100] | Loss: 0.0698
+Epoch [026/100] | Loss: 0.0739
+Epoch [027/100] | Loss: 0.0684
+Epoch [028/100] | Loss: 0.0685
+Epoch [029/100] | Loss: 0.0610
+Epoch [030/100] | Loss: 0.0627
+Saved: snapshots\PraNet_Windows\PraNet_epoch_30.pth
+Epoch [031/100] | Loss: 0.2150
+Epoch [032/100] | Loss: 0.0842
+Epoch [033/100] | Loss: 0.0676
+Epoch [034/100] | Loss: 0.0650
+Epoch [035/100] | Loss: 0.3541
+Epoch [036/100] | Loss: 0.0671
+Epoch [037/100] | Loss: 0.0716
+Epoch [038/100] | Loss: 0.1168
+Epoch [039/100] | Loss: 0.0660
+Epoch [040/100] | Loss: 0.0673
+Saved: snapshots\PraNet_Windows\PraNet_epoch_40.pth
+Epoch [041/100] | Loss: 0.0550
+Epoch [042/100] | Loss: 0.0473
+Epoch [043/100] | Loss: 0.0528
+Epoch [044/100] | Loss: 0.0472
+Epoch [045/100] | Loss: 0.2197
+Epoch [046/100] | Loss: 0.1463
+Epoch [047/100] | Loss: 0.0697
+Epoch [048/100] | Loss: 0.0480
+Epoch [049/100] | Loss: 0.0499
+Epoch [050/100] | Loss: 0.0445
+Saved: snapshots\PraNet_Windows\PraNet_epoch_50.pth
+Epoch [051/100] | Loss: 0.0443
+Epoch [052/100] | Loss: 0.0478
+Epoch [053/100] | Loss: 0.1225
+Epoch [054/100] | Loss: 0.0576
+Epoch [055/100] | Loss: 0.0562
+Epoch [056/100] | Loss: 0.0560
+Epoch [057/100] | Loss: 0.0516
+Epoch [058/100] | Loss: 0.0504
+Epoch [059/100] | Loss: 0.0430
+Epoch [060/100] | Loss: 0.0425
+Saved: snapshots\PraNet_Windows\PraNet_epoch_60.pth
+Epoch [061/100] | Loss: 0.0448
+Epoch [062/100] | Loss: 0.0433
+Epoch [063/100] | Loss: 0.1283
+Epoch [064/100] | Loss: 0.0552
+Epoch [065/100] | Loss: 0.0472
+Epoch [066/100] | Loss: 0.0450
+Epoch [067/100] | Loss: 0.0449
+Epoch [068/100] | Loss: 0.0428
+Epoch [069/100] | Loss: 0.0381
+Epoch [070/100] | Loss: 0.0420
+Saved: snapshots\PraNet_Windows\PraNet_epoch_70.pth
+Epoch [071/100] | Loss: 0.0423
+Epoch [072/100] | Loss: 0.0436
+Epoch [073/100] | Loss: 0.0621
+Epoch [074/100] | Loss: 0.0484
+Epoch [075/100] | Loss: 0.0449
+Epoch [076/100] | Loss: 0.0382
+Epoch [077/100] | Loss: 0.0375
+Epoch [078/100] | Loss: 0.0363
+Epoch [079/100] | Loss: 0.0401
+Epoch [080/100] | Loss: 0.0426
+Saved: snapshots\PraNet_Windows\PraNet_epoch_80.pth
+Epoch [081/100] | Loss: 0.0739
+Epoch [082/100] | Loss: 0.0579
+Epoch [083/100] | Loss: 0.0429
+Epoch [084/100] | Loss: 0.0346
+Epoch [085/100] | Loss: 0.0395
+Epoch [086/100] | Loss: 0.0364
+Epoch [087/100] | Loss: 0.0413
+Epoch [088/100] | Loss: 0.0390
+Epoch [089/100] | Loss: 0.0353
+Epoch [090/100] | Loss: 0.0360
+Saved: snapshots\PraNet_Windows\PraNet_epoch_90.pth
+Epoch [091/100] | Loss: 0.0826
+Epoch [092/100] | Loss: 0.0499
+Epoch [093/100] | Loss: 0.0394
+Epoch [094/100] | Loss: 0.0352
+Epoch [095/100] | Loss: 0.0371
+Epoch [096/100] | Loss: 0.0329
+Epoch [097/100] | Loss: 0.0328
+Epoch [098/100] | Loss: 0.0370
+Epoch [099/100] | Loss: 0.0328
+Epoch [100/100] | Loss: 0.0340
+Saved: snapshots\PraNet_Windows\PraNet_epoch_100.pth
+
+进程已结束，退出代码为 0
